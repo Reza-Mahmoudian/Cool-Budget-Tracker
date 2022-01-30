@@ -15,7 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/cool-budget-tracker", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb+srv://social-network-api.igxds.mongodb.net/myFirstDatabase", {
   useNewUrlParser: true,
   useFindAndModify: false,
   useUnifiedTopology: true,
