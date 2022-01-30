@@ -16,8 +16,9 @@ You can edit the server.js to reflect that.
 To begin, run `npm start` and navigate to `http://localhost:3000` in your browser.
 
 ## Deployed Link
-[Click here for deployed application.](https:herokuapp.com/)
+[Click here for deployed application.](https://limitless-tundra-51697.herokuapp.com)
 
 ## Screenshot
 
-![Screen Capture 022 - Budget Tracker - fast-shelf-17349 herokuapp com]
+![Screen Capture 022 - Budget Tracker - fast-shelf-17349 herokuapp com](public/assets/CoolBodgetTracker-SC.png)
+
